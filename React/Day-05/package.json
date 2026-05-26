@@ -1,0 +1,32 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "React Basics",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashodhan05/namaste-react.git"
+  },
+  "keywords": [],
+  "author": "yashodhan05",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashodhan05/namaste-react/issues"
+  },
+  "homepage": "https://github.com/yashodhan05/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.6",
+    "react-dom": "^19.2.6"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}

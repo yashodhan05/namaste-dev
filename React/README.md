@@ -18,3 +18,22 @@ Hands‑on React practice repo inspired by Namaste React course
 - Error Handling
 - Https
 - Tree Shaking - remove unused code
+
+## QuickBite
+
+My Food App structure will look like this:
+
+1. **Header**
+   - Logo
+   - Nav Items (right side)
+   - Cart
+2. **Body**
+   - Search bar
+   - Restaurants List
+     - Restaurant card
+       - Image
+       - Name
+       - Rating
+3. **Footer**
+   - Links
+   - Copyrights
